@@ -1,0 +1,11 @@
+{
+    "name": "mabelli/fizz_buzz",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "classmap" : [
+            "src/"
+        ]
+    }
+}
